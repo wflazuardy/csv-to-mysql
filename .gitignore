@@ -26,3 +26,6 @@ test.py
 # bash / cmd scripts
 *.cmd
 *.sh
+
+# CSV files
+*.csv
