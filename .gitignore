@@ -1,0 +1,28 @@
+__pycache__
+
+# macOS
+.DS_Store
+
+# VS Code
+*.code-workspace
+.vscode/
+
+# pycharm
+.idea/
+
+# Log files
+*.log
+
+# gitlab-ci values
+values.yaml
+stag.sh
+
+# virtual environments
+.venv
+venv
+
+test.py
+
+# bash / cmd scripts
+*.cmd
+*.sh
